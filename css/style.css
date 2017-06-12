@@ -199,4 +199,6 @@ nav li a{
 }
 .contact-mail{
 	text-align: center;
+	text-decoration:none;
+	color:#a89F68;
 }
