@@ -2,3 +2,85 @@
 wood brown: A89F68;
 army green: 41521F;
 */
+body {
+	padding:0;
+	margin:0 auto;
+	overflow-x:hidden;
+	font-family: 'Lato', sans-serif;
+}
+/*Seccion 1: bienvenida*/
+.bienvenida{
+	color:white;
+	background: url("../img/portada.jpg");
+	background-repeat:no-repeat;
+	background-position: center;
+	background-size:cover;
+}
+.title{
+	color:#fff;
+	font-weight: bold;
+}
+.navbar-default{
+	background-color:transparent;
+	border:none;
+}
+.bienvenido-content{
+	padding:100px 0;
+}
+.btn-verde{
+	background-color:#41521F;
+	color:white;
+	font-weight: bolder;
+}
+.paragraph-first-section{
+	color:white;
+	font-weight: bold;
+	text-align:justify;
+}
+nav li a{
+	color:white !important;
+}
+.navbar-brand.logo{
+	color: white;
+}
+
+.segunda-seccion{
+	padding: 60px 50px;
+}
+.title-second-section{
+	color:#41521F;
+	font-weight:bold;
+}
+.paragraph-second{
+	text-align: justify;
+}
+.koalax{
+	margin-top:10px;
+	padding-top:20px;
+	width:65%;
+}
+.columnas a{
+	color:#41521f;
+}
+
+.tercera-seccion{
+	background-color:#A89F68;
+	padding:60px 50px;
+}
+.text{
+	margin-bottom: 10px;
+}
+
+.tercera-seccion{
+	background-color: #A89F68;
+	padding:60px 50px;
+}
+.title{
+	color:white;
+	font-size:20px;
+}
+.koolala{
+	border:5px solid white;
+	margin-right:10px;
+	width:100%;
+}
